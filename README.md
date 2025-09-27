@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-000&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammad-000" alt="hammad-000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/syed_hammad" target="blank"><img src="https://img.shields.io/twitter/follow/syed_hammad?logo=twitter&style=for-the-badge" alt="syed_hammad" /></a> </p>
 
 - 📫 How to reach me **syedhammad283@gmail.com**
 
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-000&show_icons=true&locale=en&layout=compact" alt="hammad-000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-000&show_icons=true&locale=en" alt="hammad-000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-000&" alt="hammad-000" /></p>
