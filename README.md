@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/syed_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_hammad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syed-hammad-ahmed-412834287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-hammad-ahmed-412834287" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codelab222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@Codelab222/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@codelab222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@CodeLab222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
