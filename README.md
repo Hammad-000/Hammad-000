@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hammad Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Karachi/Pakistan</h3>
+<h3 align="center">A passionate mern stack developer from Karachi/Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-000&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-000" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammad-000" alt="hammad-000" /></a> </p>
+
+- 🌱 I’m currently learning **Nodejs , Express ,Mongodb**
 
 - 📫 How to reach me **syedhammad283@gmail.com**
 
@@ -11,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/syed_hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_hammad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syed-hammad-ahmed-412834287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-hammad-ahmed-412834287" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucej7gucovlrjfoszdks2oea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/channel/ucej7gucovlrjfoszdks2oea" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/ucej7gucovlrjfoszdks2oea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/ucej7gucovlrjfoszdks2oea" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
