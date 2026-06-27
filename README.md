@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **syedhammadahmed121@gmail.com**
+- 📫 How to reach me **syedhammadahmed121@gmail.com** or **+923110250787**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
