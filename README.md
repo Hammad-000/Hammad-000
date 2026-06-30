@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/syed_hammad" target="blank"><img src="https://img.shields.io/twitter/follow/syed_hammad?logo=twitter&style=for-the-badge" alt="syed_hammad" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js, Express ,Mongodb**
-
+- 🌱 I’m currently learning **Node Js, Express ,Mongo DB**
 - 👨‍💻 All of my projects are available at [https://hammad-nine.vercel.app/](https://hammad-nine.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
