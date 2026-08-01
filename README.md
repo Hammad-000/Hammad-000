@@ -99,7 +99,7 @@ Fun fact:      I debug more than I code, and I'm okay with that 😄
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammad-000&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/hammad-000" alt="Hammad's Yearly Contribution Graph" />
 </p>
 
 ---
