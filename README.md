@@ -4,7 +4,7 @@
 
 ### A Passionate MERN Stack Developer from Karachi, Pakistan 🇵🇰
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+Something+New&font=Fira%20Code&center=true&width=440&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;TypeScript+%26+React+Developer;Building+Scalable+Web+Apps;Always+Learning+Something+New&font=Fira%20Code&center=true&width=440&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hammad-000&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
@@ -18,9 +18,9 @@
 Name:          Hammad Ahmed
 Role:          MERN Stack Developer
 Location:      Karachi, Pakistan
-Currently:     Learning & mastering Node.js, Express.js, and MongoDB
+Currently:     Learning & mastering TypeScript, Node.js, Express.js, and MongoDB
 Portfolio:     hammad-nine.vercel.app
-Ask me about:  JavaScript, React, and Full-Stack Development
+Ask me about:  JavaScript, TypeScript, React, and Full-Stack Development
 Goal:          Building scalable, high-performance web applications
 Fun fact:      I debug more than I code, and I'm okay with that 😄
 ```
@@ -56,6 +56,7 @@ Fun fact:      I debug more than I code, and I'm okay with that 😄
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
