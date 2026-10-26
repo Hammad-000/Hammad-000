@@ -38,6 +38,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### **Backend & Database**
@@ -77,7 +78,7 @@ A full-stack MERN e-commerce solution with modern UI and comprehensive product m
 ### 🎂 **Cakes Villa**
 A complete cake ordering platform with dual-interface design - one for customers, one for administrators.
 
-**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS  
+**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS • shadcn/ui  
 **Features:**
 - 👥 Customer-friendly ordering interface
 - 📊 Admin dashboard for order management
@@ -137,7 +138,7 @@ Personal finance management app with real-time data sync and category-based fina
 
 | Category | Skills |
 |----------|--------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Bootstrap |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, Bootstrap |
 | **Backend** | Node.js, Express.js, RESTful APIs, Middleware, Authentication |
 | **Database** | MongoDB, Mongoose, Firebase, Supabase, Data Modeling |
 | **DevOps** | Git, GitHub, Vercel, Environment Variables, CI/CD Basics |
